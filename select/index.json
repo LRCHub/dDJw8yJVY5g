@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Heaven's Drive",
+  "base_artist": "(sic)boy",
+  "createdAt": "2025-12-06T13:37:32.031398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HEAVEN'S DRIVE",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/01_HEAVEN'S_DRIVE_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HEAVEN'S DRIVE",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/02_HEAVEN'S_DRIVE_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HEAVEN'S DRIVE",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": false,
+      "path": "select/03_HEAVEN'S_DRIVE_L'Arc-en-Ciel.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HEAVEN'S DRIVE 2005 (TETSU P'UNKless version)",
+      "artist": "P'UNK~EN~CIEL",
+      "has_synced": false,
+      "path": "select/04_HEAVEN'S_DRIVE_2005_(TETSU_P'UNKless_version)_P'UNK~EN~CIEL.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HEAVEN'S DRIVE 2005",
+      "artist": "P'UNK~EN~CIEL",
+      "has_synced": false,
+      "path": "select/05_HEAVEN'S_DRIVE_2005_P'UNK~EN~CIEL.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heaven's Drive",
+      "artist": "(sic)boy feat. KM & vividboooy",
+      "has_synced": true,
+      "path": "select/06_Heaven's_Drive_(sic)boy_feat._KM_&_vividboooy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heaven's Drive",
+      "artist": "(sic)boy, KM feat. vividboooy",
+      "has_synced": true,
+      "path": "select/07_Heaven's_Drive_(sic)boy,_KM_feat._vividboooy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HEAVEN'S DRIVE",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/08_HEAVEN'S_DRIVE_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HEAVEN’S DRIVE",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/09_HEAVEN’S_DRIVE_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "heavens drive",
+      "artist": "larcenciel",
+      "has_synced": true,
+      "path": "select/10_heavens_drive_larcenciel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HEAVEN'S DRIVE",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/11_HEAVEN'S_DRIVE_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HEAVEN'S DRIVE",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/12_HEAVEN'S_DRIVE_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HEAVEN’S DRIVE",
+      "artist": "L’Arc.en.Ciel",
+      "has_synced": true,
+      "path": "select/13_HEAVEN’S_DRIVE_L’Arc.en.Ciel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heaven's Drive (Prod.KM) (feat. vividboooy)",
+      "artist": "(sic)boy",
+      "has_synced": true,
+      "path": "select/14_Heaven's_Drive_(Prod.KM)_(feat._vividboooy)_(sic)boy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "heavens drive",
+      "artist": "larcenciel",
+      "has_synced": true,
+      "path": "select/15_heavens_drive_larcenciel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heaven's Drive feat.vividboooy(Prod.KM)",
+      "artist": "(sic)boy",
+      "has_synced": true,
+      "path": "select/16_Heaven's_Drive_feat.vividboooy(Prod.KM)_(sic)boy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "HEAVEN’S DRIVE",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/17_HEAVEN’S_DRIVE_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heaven's Drive",
+      "artist": "(sic)boy, KM, vividboooy",
+      "has_synced": false,
+      "path": "select/pl_01_Heaven's_Drive_(sic)boy,_KM,_vividboooy.txt"
+    }
+  ]
+}
